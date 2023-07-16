@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <books>
+    <book>
+      <id>1</id>
+      <nazov>Harry Potter a Tajomná komnata</nazov>
+      <autori>
+        <autor1>J.K. Rowling</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Fantasy</kategoria>
+      <isbn>9788055143088</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>360</pocet_stran>
+      <vazba>brožovaná väzba</vazba>
+      <rok_vydania>2015</rok_vydania>
+      <vydavatelstvo>Ikar</vydavatelstvo>
+      <predajna_cena>11.9</predajna_cena>
+      <nakupna_cena>8.25</nakupna_cena>
+      <marza>0.442424242424242</marza>
+      <zisk_kus>3.65</zisk_kus>
+      <obsah>V lete boli Dursleyovci veľmi odporní, takže sa Harry Potter už netrpezlivo tešil na návrat do čarovnej školy. Jedného dňa sa v jeho izbe objavilo zvláštne a zákerné stvorenie menom Dobby. Dobby tvrdil, že ak sa Harry vráti na Rokfort, bude v ohrození života. A mal pravdu. Keď Harry nastúpil do druhého ročníka, začali sa diať na škole tajomné a strašidelné veci. Niečo alebo niekto napáda študentov Rokfortu a mení ich na kameň. Je to práca Draco Malfoya, Harryho hlavného nepriateľa? Alebo za tým stojí niekto, na koho najviac podozrievajú na Rokforte - možno aj sám Harry Potter?</obsah>
+      <priemerne_hodnotenie>4.7</priemerne_hodnotenie>
+      <obrazok>../img/1.jpg</obrazok>
+    </book>
+    <book>
+      <id>2</id>
+      <nazov>Harry Potter a Ohnivá čaša</nazov>
+      <autori>
+        <autor1>J.K. Rowling</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Fantasy</kategoria>
+      <isbn>9788055143866</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>712</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2015</rok_vydania>
+      <vydavatelstvo>Ikar</vydavatelstvo>
+      <predajna_cena>16.11</predajna_cena>
+      <nakupna_cena>10.25</nakupna_cena>
+      <marza>0.571707317073171</marza>
+      <zisk_kus>5.86</zisk_kus>
+      <obsah>Po prázdninách s nepríjemnými Dursleyovcami sa Harry Potter rozhodne stráviť čas na Svetovom pohári v metlobale, spolu s Hermionou, Ronom a rodinou Weasleyovcov. Na Rokforte sa po 100 rokoch uskutoční Trojčarodejnícky turnaj, na ktorom sa okrem domácich čarodejov predstavia aj zástupcovia dvoch ďalších čarodejníckych škôl. Harry si stále praje, aby bol obyčajným 14-ročným čarodejníkom, ale naďalej sa zdá, že má veľké problémy. Jeho čarodejnícke schopnosti sú zvláštne a to môže mať nebezpečné následky...</obsah>
+      <priemerne_hodnotenie>4.5</priemerne_hodnotenie>
+      <obrazok>../img/2.jpg</obrazok>
+    </book>
+    <book>
+      <id>3</id>
+      <nazov>Jednoduché účtovníctvo pre neziskovky</nazov>
+      <autori>
+        <autor1>Jaroslava Lukačovičová</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Biznis a manažment</kategoria>
+      <isbn>9788097029142</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>165</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2022</rok_vydania>
+      <vydavatelstvo>Sauno</vydavatelstvo>
+      <predajna_cena>9.64</predajna_cena>
+      <nakupna_cena>6.24</nakupna_cena>
+      <marza>0.544871794871795</marza>
+      <zisk_kus>3.4</zisk_kus>
+      <obsah>V novej knihe autorka odhaľuje, aké to je byť účtovníkom v neziskovom sektore. Mnohí si myslia, že táto práca by mala byť jednoduchá, no autorka tvrdí, že to také jednoduché vôbec nie je. Zdieľa svoje skúsenosti, ktoré ukazujú, že účtovníctvo v neziskových organizáciách môže byť náročné a zložité.</obsah>
+      <priemerne_hodnotenie>4.4</priemerne_hodnotenie>
+      <obrazok>../img/3.jpg</obrazok>
+    </book>
+    <book>
+      <id>4</id>
+      <nazov>Jediná kniha o jídle, kterou potřebujete</nazov>
+      <autori>
+        <autor1>Karolína Fourová</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Kuchárky</kategoria>
+      <isbn>9788024271576</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>200</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2020</rok_vydania>
+      <vydavatelstvo>Esence</vydavatelstvo>
+      <predajna_cena>16</predajna_cena>
+      <nakupna_cena>8.36</nakupna_cena>
+      <marza>0.913875598086125</marza>
+      <zisk_kus>7.64</zisk_kus>
+      <obsah>Kniha od Karolíny Fourové, která je odbornicou na výživu a kvalitu potravín, vám umožní pochopiť základné princípy stravovania a predstaví vám jednotlivé zložky výživy a ich úlohu v ľudskom organizme. Získate návod, ako správne nakupovať a zodpovieme pre vás väčšinu otázok týkajúcich sa stravy a potravín. Ak sa pri zdravom stravovaní zatiaľ zatratili, kniha obsahuje aj 40 najobľúbenejších receptov autorky, ktoré vám usnadnia cestu.</obsah>
+      <priemerne_hodnotenie>3.8</priemerne_hodnotenie>
+      <obrazok>../img/4.jpg</obrazok>
+    </book>
+    <book>
+      <id>5</id>
+      <nazov>Setkání s Rámou</nazov>
+      <autori>
+        <autor1>Arthur C. Clarke</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Fantasy</kategoria>
+      <isbn>9788025738726</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>256</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2022</rok_vydania>
+      <vydavatelstvo>Argo</vydavatelstvo>
+      <predajna_cena>15.56</predajna_cena>
+      <nakupna_cena>8.29</nakupna_cena>
+      <marza>0.876960193003619</marza>
+      <zisk_kus>7.27</zisk_kus>
+      <obsah>V roku 2077 Taliansko zasiahla katastrofa po dopade meteoritu, čo viedlo najvyšších predstaviteľov ľudstva k rozhodnutiu vytvoriť systém radarov a teleskopov, ktorý sleduje všetky objekty prechádzajúce Slnečnou sústavou. V roku 2130 systém zachytil objekt mimoriadnych rozmerov, ktorý sa pohyboval priamo a nie po eliptickej dráhe ako ostatné asteroidy. Nazvali ho Ráma a na nejaký čas sa naň zabudlo. Až keď sa priblížil k Marsu, bola k nemu vyslaná sonda, ktorá zachytila kamerové snímky, ktoré vzali dych celému ľudstvu. Ráma je valec s dĺžkou päťdesiat kilometrov a priemerom dvadsať kilometrov. Jeho povrch je úplne hladký a kvôli slabému gravitačnému polu sa predpokladá, že je dutý. Ľudstvo sa pripravuje na prvú návštevu zo hviezd...</obsah>
+      <priemerne_hodnotenie>4.8</priemerne_hodnotenie>
+      <obrazok>../img/5.jpg</obrazok>
+    </book>
+    <book>
+      <id>6</id>
+      <nazov>2010: Druhá vesmírná odysea</nazov>
+      <autori>
+        <autor1>Arthur C. Clarke</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Fantasy</kategoria>
+      <isbn>9788025720936</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>315</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2017</rok_vydania>
+      <vydavatelstvo>Argo</vydavatelstvo>
+      <predajna_cena>13.24</predajna_cena>
+      <nakupna_cena>9.35</nakupna_cena>
+      <marza>0.416042780748663</marza>
+      <zisk_kus>3.89</zisk_kus>
+      <obsah>Ku sosmickej lodi Discovery, osamelej plávajúcej hlbokým vesmírom od doby, čo David Bowman prešiel "Hviezdnou bránou", sa vydáva nová medzinárodná expedícia. Jeden z cieľov výpravy je objasnenie tragických udalostí, ktoré sa na Discovery odohrali. Ale najdôležitejším úlohou je prieskum záhadného vesmírneho telesa s celkom pravidelnými tvarmi. Je to prírodný jav alebo výtvor mimozemskéj civilizácie? Znamená toto telo hrozbu pre ľudstvo alebo mu môže naopak pomôcť? Vynárajú sa tisíce rôznych otázok a zodpovedanie aspoň časti z nich môže navždy zmeniť chápanie samotnej podstaty existencie vesmíru a tým aj budúcnosť ľudského druhu...</obsah>
+      <priemerne_hodnotenie>2.9</priemerne_hodnotenie>
+      <obrazok>../img/6.jpg</obrazok>
+    </book>
+    <book>
+      <id>7</id>
+      <nazov>Nová taliančina pre samoukov</nazov>
+      <autori>
+        <autor1>Michaela  Vannini</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Odborné a náučné</kategoria>
+      <isbn>9788081092923</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>296</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2016</rok_vydania>
+      <vydavatelstvo>Eastone Books</vydavatelstvo>
+      <predajna_cena>14.75</predajna_cena>
+      <nakupna_cena>8.56</nakupna_cena>
+      <marza>0.723130841121495</marza>
+      <zisk_kus>6.19</zisk_kus>
+      <obsah>Tento manuál slúži pre každého, kto by sa chcel naučiť taliansky jazyk a súčasne sa oboznámiť s talianskou kultúrou. Učebnica bola zostavená tak, aby z nej mohli profitovať aj tí úplní začiatočníci, aj tí pokročilejší používatelia tohto jazyka, či už samouci alebo účastníci kurzov. Slovnú zásobu, dôležité frázy a gramatiku sa učíte prostredníctvom čítania príbehu o Anne a Petrovi, ktorí žijú a pracujú v talianskom meste Barga. Tým, že vás prevedú bežnými situáciami, s ktorými sa môžete stretávať počas pobytu v Taliansku, si budete môcť vylepšiť svoje jazykové schopnosti.</obsah>
+      <priemerne_hodnotenie>4.2</priemerne_hodnotenie>
+      <obrazok>../img/7.jpg</obrazok>
+    </book>
+    <book>
+      <id>8</id>
+      <nazov>Programování v C#</nazov>
+      <autori>
+        <autor1>Miroslav Virius</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Odborné a náučné</kategoria>
+      <isbn>9788027112166</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>424</pocet_stran>
+      <vazba>brožovaná väzba</vazba>
+      <rok_vydania>2020</rok_vydania>
+      <vydavatelstvo>Grada</vydavatelstvo>
+      <predajna_cena>17.89</predajna_cena>
+      <nakupna_cena>10.99</nakupna_cena>
+      <marza>0.627843494085532</marza>
+      <zisk_kus>6.9</zisk_kus>
+      <obsah>Táto učebnica programovania v jazyku C# je prehľadná a praktická. Je vhodná pre začiatočníkov aj pre používateľov iných programovacích jazykov. Učebnica vás naučí základy a postupne vás zavedie až k pokročilejším konštrukciám.</obsah>
+      <priemerne_hodnotenie>4.3</priemerne_hodnotenie>
+      <obrazok>../img/8.jpg</obrazok>
+    </book>
+    <book>
+      <id>9</id>
+      <nazov>Hacking Web Apps</nazov>
+      <autori>
+        <autor1>Mike Shema</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Odborné a náučné</kategoria>
+      <isbn>9781597499514</isbn>
+      <jazyk>en</jazyk>
+      <pocet_stran>296</pocet_stran>
+      <vazba>brožovaná väzba</vazba>
+      <rok_vydania>2012</rok_vydania>
+      <vydavatelstvo>Syngress</vydavatelstvo>
+      <predajna_cena>41</predajna_cena>
+      <nakupna_cena>25.99</nakupna_cena>
+      <marza>0.577529819161216</marza>
+      <zisk_kus>15.01</zisk_kus>
+      <obsah>Ako môže odborník v oblasti informačnej bezpečnosti držať krok s všetkými hackami, útokmi a zneužitiami na webe? Jeden spôsob je čítať knihu Hacking Web Apps. Obsah tejto knihy bol vybraný autorom Mikom Shemou tak, aby sa pokryli najzákernnejšie útoky. Mike nielenže ukáže anatónmiu týchto útokov, ale tiež vám povie, ako sa zbaviť týchto červov, trojanov a botnetov a ako sa brániť proti nim v budúcnosti. Konkrétne protiopatrenia sú opísané, aby ste sa mohli brániť proti podobným útokom, ktoré sa vyvíjajú.</obsah>
+      <priemerne_hodnotenie>4.6</priemerne_hodnotenie>
+      <obrazok>../img/9.jpg</obrazok>
+    </book>
+    <book>
+      <id>10</id>
+      <nazov>Hacking bez tajemství - Webové aplikace</nazov>
+      <autori>
+        <autor1>Mike Shema</autor1>
+        <autor2>Joel Scambray</autor2>
+      </autori>
+      <kategoria>Odborné a náučné</kategoria>
+      <isbn>8072267698</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>360</pocet_stran>
+      <vazba>brožovaná väzba</vazba>
+      <rok_vydania>2003</rok_vydania>
+      <vydavatelstvo>Computer Press</vydavatelstvo>
+      <predajna_cena>18.5</predajna_cena>
+      <nakupna_cena>11.89</nakupna_cena>
+      <marza>0.555929352396972</marza>
+      <zisk_kus>6.61</zisk_kus>
+      <obsah>Správcovia počítačových systémov zistili, že zákerní a ambiciózni jedinci môžu ľahko preniknúť do počítačových sietí a systémov. Kniha s názvom Hacking bez tajomstiev poukázala na túto skutočnosť a ukázala správcom, že pre zabezpečenie systémov je nutné dodržiavať pravidlá ako sú firewall, bezpečné konfigurácie operačných systémov, používať aktualizácie od dodávateľov a iné pravidlá, ktoré boli v minulosti opomínané. Hoci stále existuje mnoho správcov, ktorí nemajú s touto krutou skúsenosťou skúsenosti, väčšina už pochopila dôležitosť týchto zásad zabezpečenia informačných systémov.</obsah>
+      <priemerne_hodnotenie>5</priemerne_hodnotenie>
+      <obrazok>../img/10.jpg</obrazok>
+    </book>
+    <book>
+      <id>11</id>
+      <nazov>Tajomný závoj</nazov>
+      <autori>
+        <autor1>Dominik Dán</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Detektívky</kategoria>
+      <isbn>9788055656922</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>352</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2022</rok_vydania>
+      <vydavatelstvo>Slovart</vydavatelstvo>
+      <predajna_cena>5</predajna_cena>
+      <nakupna_cena>3.26</nakupna_cena>
+      <marza>0.533742331288344</marza>
+      <zisk_kus>1.74</zisk_kus>
+      <obsah>Krátko po revolúcii sa ukázali niektoré zo skrytých stránok novej demokratickej vlády - drogy a prostitúcia. Chlapci z oddelenia pre vraždy sa s nimi stretávali aj predtým, no v menej drastickom meradle. Dnes už nemajú toľko šťastia, pretože vrah postupoval neľútostne - napadol aj jednu mladú pouličnú prostitutku, podrezal ju a naaranžoval jej telo tak, aby vyzerala, akoby bola vystavená na pohrebných závesoch. Ale bol to naozaj podrezaný krk? Skutočne ju vystavil, aby im poslal odkaz? Hrá sa s nimi?</obsah>
+      <priemerne_hodnotenie>4.7</priemerne_hodnotenie>
+      <obrazok>../img/11.jpg</obrazok>
+    </book>
+    <book>
+      <id>12</id>
+      <nazov>Smrť na druhom brehu</nazov>
+      <autori>
+        <autor1>Dominik Dán</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Detektívky</kategoria>
+      <isbn>9788055625935</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>320</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2016</rok_vydania>
+      <vydavatelstvo>Slovart</vydavatelstvo>
+      <predajna_cena>13.25</predajna_cena>
+      <nakupna_cena>7.69</nakupna_cena>
+      <marza>0.723016905071521</marza>
+      <zisk_kus>5.56</zisk_kus>
+      <obsah>V deväťdesiatych rokoch začiatku sa v celej spoločnosti dialo veľa hektických udalostí, nielen na oddelení vrážd. Detektívi automaticky sledovali to, čo sa deje v Našom Meste, a nie len to, sledovali, ale aj riešili, vyšetrovali a vypočúvali. Richard Krauz, ktorý bol zeleným nováčikom, sa stal samostatne pracujúcim detektívom spolu so svojim partnerom Jozefom Fischerom, ktorý bol nazývaný Chosé. Spoločne riešili jeden prípad za druhým. Jeden prípad, ktorý sa stal na jar 1994, sa týkal dvch výrostkov, ktorí na brehu rieky Morava na úrovni 4. kilometrovníka našli polozahrabaného, polorozpadnutého muža. Nič zvláštne, mohol by skončiť v krematóriu a na náklady štátu, avšak mal uprostred čela pravidelný kruhový otvor s priemerom 9 mm. Stačil jeden pohľad a detektívi si boli istí, že otvor nebol spôsobený vŕtačkou, ale olovom vytvoreným do podoby gule. Však z ktorej pištole bola vystrelená a kto ju v ten moment držal, sa dozvedia až po dlhom vyšetrovaní. Chlapci z oddelenia vrážd sa riadne zapotia, pretože nevedia nič o vrahovi ani o obeti. Nikto nezabudol na mŕtveho chlapa. Nevedeli ani to, že kruhový otvor uprostred čela sa čoskoro stane symbolom riešenia účtov v podsvetí, ktoré sa práve začína formovať.</obsah>
+      <priemerne_hodnotenie>4.6</priemerne_hodnotenie>
+      <obrazok>../img/12.jpg</obrazok>
+    </book>
+    <book>
+      <id>13</id>
+      <nazov>Mucha</nazov>
+      <autori>
+        <autor1>Dominik Dán</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Detektívky</kategoria>
+      <isbn>9788080858650</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>312</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2009</rok_vydania>
+      <vydavatelstvo>Slovart</vydavatelstvo>
+      <predajna_cena>14.95</predajna_cena>
+      <nakupna_cena>8.89</nakupna_cena>
+      <marza>0.681664791901012</marza>
+      <zisk_kus>6.06</zisk_kus>
+      <obsah>Po roku od nežnej revolúcie bola v Našom Meste zriadená samostatná jednotka pre vyšetrovanie vrážd, avšak vraždy sa stali aj predtým, počas socializmu a v prechodnom období v roku 1990. Kriminalisti zápasia so starým "šialeným" počtom vrážd, ktoré sa vyskytli až päťkrát ročne, museli sa však zrazu prispôsobiť priradeniu až dvadsiatich prípadov, niektoré roky dokonca až tridsať a s nárastom brutality, o ktorej si doteraz ani nesnívali. Jeden z nich bol aj prípad vraždy mladej dievčiny. Nebola dcérou žiadneho skorumpovaného politika, žiadneho multimiliónového otca, nebola ničím výnimočná, iba bežná. Lenže ju jedného dňa našli zavraždenú pri jazere v lesnom parku. Mladé a pekné dievča. Ešte nedávno živá, teraz už nie. Niekto ju zviazal za chrbtom vlastnými pančuchami, udusil a možno aj znásilnil, ale to už nebolo možné zistiť. Telo sa už začalo rozkladať a všetky stopy zmizli. Krauz a jeho priatelia musia začať odznova, ako už toľkokrát predtým a po tom. No niečo im však zostalo, malá, takmer nepostrehnuteľná stopa, ktorú zanechala mucha. Uvidíme, či to bude stačiť na vyriešenie tejto záhady.</obsah>
+      <priemerne_hodnotenie>4.9</priemerne_hodnotenie>
+      <obrazok>../img/13.jpg</obrazok>
+    </book>
+    <book>
+      <id>14</id>
+      <nazov>Nemý svedok</nazov>
+      <autori>
+        <autor1>Agatha Christie</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Detektívky</kategoria>
+      <isbn>9788022022125</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>232</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2020</rok_vydania>
+      <vydavatelstvo>Slovenský spisovateľ</vydavatelstvo>
+      <predajna_cena>7.8</predajna_cena>
+      <nakupna_cena>5.68</nakupna_cena>
+      <marza>0.373239436619718</marza>
+      <zisk_kus>2.12</zisk_kus>
+      <obsah>K výročiu storočnice tvorby Agathy Christie, ktorá je legendárnou autorkou detektívnych príbehov, a k stým "narodeninám" jej nemenej slávneho hrdinu - geniálneho súkromného detektíva Hercula Poirota, bola vydávaná nová verzia skvelého detektívneho románu s názvom Nemý svedok.
+
+Keď bohatá stará pani Emily Arundellová nešťastnou náhodou spadne zo schodov, všetci si myslia, že to bol jej nezbedný foxteriér Bob, ktorý tam zanechal gumenú loptičku. Čím viac Emily premýšľa o svojom páde, tým viac je presvedčená, že niekto z jej chamtivých príbuzných sa ju snaží zabiť. Napokon sa rozhodne povedať svoje podozrenia slávnemu detektívmu Herculovi Poirotovi, no jej list z 17. apríla záhadne neprichádza na čas a až koncom júna sa dostane k Poirotovi. Bohužiaľ, v tom čase už bola Emily Arundellová mŕtva takmer dva mesiace.</obsah>
+      <priemerne_hodnotenie>4.8</priemerne_hodnotenie>
+      <obrazok>../img/14.jpg</obrazok>
+    </book>
+    <book>
+      <id>15</id>
+      <nazov>Veľká štvorka</nazov>
+      <autori>
+        <autor1>Agatha Christie</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Detektívky</kategoria>
+      <isbn>9788022021678</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>184</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2019</rok_vydania>
+      <vydavatelstvo>Slovenský spisovateľ</vydavatelstvo>
+      <predajna_cena>9.65</predajna_cena>
+      <nakupna_cena>4.5</nakupna_cena>
+      <marza>1.14444444444444</marza>
+      <zisk_kus>5.15</zisk_kus>
+      <obsah>V roku 1927 zverejnila prvá dáma anglickej detektívky román, v ktorom sa predstavuje Hercule Poirot v úplne novom, prekvapivom svetle: tento slávny detektív sa zaoberá nielen vyšetrovaním vraždy vo vidieckom sídle, ale aj súbojom s mimoriadne nebezpečnou medzinárodnou organizáciou, ktorá túži ovládnuť svet.
+
+Každý jednotlivý člen tejto organizácie predstavoval obrovské nebezpečenstvo. Po spojení síl sa stali prakticky neporaziteľnými. Veľká štvorka - geniálny Číňan, americký miliardár, francúzska vedkyňa a nepolapiteľný majster prestrojení – vytvorili zločinecké sprisahanie takých gigantických rozmerov, že to dokonca aj Poirota šokovalo. Poirot sa snaží zastaviť ich zámery pomocou svojich unikátnych deduktívnych schopností, ale čím dlhšie sa pokúša ich vystopovať, tým viac sa ukazuje, že toto by mohol byť jeho posledný, osudový prípad...</obsah>
+      <priemerne_hodnotenie>4.1</priemerne_hodnotenie>
+      <obrazok>../img/15.jpg</obrazok>
+    </book>
+    <book>
+      <id>16</id>
+      <nazov>Eiffel</nazov>
+      <autori>
+        <autor1>Nicolas d'Estienne d'Orves</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Spoločenská beletria</kategoria>
+      <isbn>9788056630006</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>256</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2022</rok_vydania>
+      <vydavatelstvo>Lindeni,</vydavatelstvo>
+      <predajna_cena>14.49</predajna_cena>
+      <nakupna_cena>7.68</nakupna_cena>
+      <marza>0.88671875</marza>
+      <zisk_kus>6.81</zisk_kus>
+      <obsah>V roku 1886 sa Paríž pripravoval na Svetovú výstavu a Gustave Eiffel chystal prekvapiť Francúzsko monumentálnym stavbou, 300-metrovou vežou, ktorá mala byť najvyššou na svete. Avšak, či je toto jediný dôvod pre jeho neustálu posedlosť touto kovovou stavbou, ktorá ho núti neustále pracovať, kresliť plány a hľadať dokonalý tvar?
+
+Ako sa hovorí, „cherchez la femme“ - za každým mužom stojí silná žena. Po opätovnom stretu so svojou osudovou, dlho stratenou láskou, sa zdá, že Adrienne vstúpila do Eiffelovho projektu. Je to krivka jej chrbta, ktorá ho inšpirovala, a veľké A, ktoré sa bude navždy týčiť k parížskemu nebu.</obsah>
+      <priemerne_hodnotenie>4.2</priemerne_hodnotenie>
+      <obrazok>../img/16.jpg</obrazok>
+    </book>
+    <book>
+      <id>17</id>
+      <nazov>Pán prsteňov III. - Návrat kráľa</nazov>
+      <autori>
+        <autor1>J.R.R. Tolkien</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Fantasy</kategoria>
+      <isbn>9788055606309</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>432</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2012</rok_vydania>
+      <vydavatelstvo>Slovart</vydavatelstvo>
+      <predajna_cena>14.46</predajna_cena>
+      <nakupna_cena>7.58</nakupna_cena>
+      <marza>0.907651715039578</marza>
+      <zisk_kus>6.88</zisk_kus>
+      <obsah>Rozprávanie Pána prsteňov opisuje Vojnu o Prsteň, ktorá sa odohráva v slobodných krajinách Stredozeme proti Temnote, a cestu Hobita Froda, ktorý sa vydá na záchranu sveta. Keď Spoločenstvo Prsteňa padne a Veľká tma sa rozšíri, začína sa rozhodujúca Vojna o Prsteň, ktorá zodpovedá o všetkom...</obsah>
+      <priemerne_hodnotenie>4.7</priemerne_hodnotenie>
+      <obrazok>../img/17.jpg</obrazok>
+    </book>
+    <book>
+      <id>18</id>
+      <nazov>Kaviareň v Kodani</nazov>
+      <autori>
+        <autor1>Julie Caplin</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Spoločenská beletria</kategoria>
+      <isbn>9788080900946</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>352</pocet_stran>
+      <vazba>brožovaná väzba</vazba>
+      <rok_vydania>2020</rok_vydania>
+      <vydavatelstvo>Grada</vydavatelstvo>
+      <predajna_cena>13.99</predajna_cena>
+      <nakupna_cena>6.89</nakupna_cena>
+      <marza>1.03047895500726</marza>
+      <zisk_kus>7.1</zisk_kus>
+      <obsah>Zahrejte si šálku teplej a aromatickej horúcej čokolády, obujte si hrubé ponožky, zosite sa do kresla a vyrazte s Katie do Kodane. Čaká na vás úžasná cesta za slávnym dánskym šťastím a... romantickou a sladkou láskou.</obsah>
+      <priemerne_hodnotenie>4.5</priemerne_hodnotenie>
+      <obrazok>../img/18.jpg</obrazok>
+    </book>
+    <book>
+      <id>19</id>
+      <nazov>Hotelík na Islande</nazov>
+      <autori>
+        <autor1>Julie Caplin</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Spoločenská beletria</kategoria>
+      <isbn>9788080902650</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>344</pocet_stran>
+      <vazba>brožovaná väzba</vazba>
+      <rok_vydania>2022</rok_vydania>
+      <vydavatelstvo>Cosmopolis</vydavatelstvo>
+      <predajna_cena>14.17</predajna_cena>
+      <nakupna_cena>9.16</nakupna_cena>
+      <marza>0.546943231441048</marza>
+      <zisk_kus>5.01</zisk_kus>
+      <obsah>Tento príbeh z krajiny pokrytej ľadom a gejzírov vám dokáže, že hľadanie pravej lásky je často ťažké a môže byť plné zklamania, ale zároveň aj ukazuje, že človek, ktorý je šikovný a neprestáva sa učiť z chýb, vždy nakoniec nájde svoje miesto na slnku.</obsah>
+      <priemerne_hodnotenie>4.6</priemerne_hodnotenie>
+      <obrazok>../img/19.jpg</obrazok>
+    </book>
+    <book>
+      <id>20</id>
+      <nazov>Ako si získavať priateľov a pôsobiť na ľudí</nazov>
+      <autori>
+        <autor1>Dale Carnegie</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Sebarozvoj</kategoria>
+      <isbn>9788055149134</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>256</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2016</rok_vydania>
+      <vydavatelstvo>Príroda,</vydavatelstvo>
+      <predajna_cena>10.05</predajna_cena>
+      <nakupna_cena>6.29</nakupna_cena>
+      <marza>0.597774244833069</marza>
+      <zisk_kus>3.76</zisk_kus>
+      <obsah>Dale Carnegie poskytuje praktické rady, ktoré môžete okamžite začať využívať, vo svojich knihách, ktoré sa stali svetovými bestsellermy. Táto kniha sa zameriava na veľké tajomstvo, ako správne pristupovať k ľuďom, ako si získať priazeň, vedieť efektívne komunikovať, vyhnúť sa konfliktom a získavať podporu od ostatných.</obsah>
+      <priemerne_hodnotenie>4.5</priemerne_hodnotenie>
+      <obrazok>../img/20.jpg</obrazok>
+    </book>
+    <book>
+      <id>21</id>
+      <nazov>Ako sa zbaviť starostí a začať žiť</nazov>
+      <autori>
+        <autor1>Dale Carnegie</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Sebarozvoj</kategoria>
+      <isbn>9788055149240</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>320</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2016</rok_vydania>
+      <vydavatelstvo>Príroda,</vydavatelstvo>
+      <predajna_cena>22.5</predajna_cena>
+      <nakupna_cena>14.17</nakupna_cena>
+      <marza>0.587861679604799</marza>
+      <zisk_kus>8.33</zisk_kus>
+      <obsah>Starosti odčerpávajú človekovi energiu a bránia mu v rozmýšľaní. Existuje spôsob, ako sa ich zbaviť? Dale Carnegie v tejto knihe dokazuje, že je to možné. Poskytuje osvedčené techniky, ktoré už pomohli miliónom ľudí na celom svete zmeniť ich život. Pomocou praktických návodov sa aj vy naučíte riešiť náročné situácie, využívať kritiku v prospech seba samého a vyhnúť sa citovému stresu. Autor vám poradí, ako si vybudovať duševný postoj, ktorý vám poskytne pokoj a šťastie, ale aj pracovné návyky, ktoré vám pomôžu predchádzať únave</obsah>
+      <priemerne_hodnotenie>4.9</priemerne_hodnotenie>
+      <obrazok>../img/21.jpg</obrazok>
+    </book>
+    <book>
+      <id>22</id>
+      <nazov>Diana</nazov>
+      <autori>
+        <autor1>Andrew Morton</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Životopisy</kategoria>
+      <isbn>9788024275925</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>400</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2022</rok_vydania>
+      <vydavatelstvo>Universum</vydavatelstvo>
+      <predajna_cena>22.58</predajna_cena>
+      <nakupna_cena>12.56</nakupna_cena>
+      <marza>0.797770700636942</marza>
+      <zisk_kus>10.02</zisk_kus>
+      <obsah>V roku 1992 významne zmenila kniha "Diana, jej skutočný príbeh" spôsob, akým bola britská monarchia vnímaná verejnosťou. Táto kniha sa stala unikátnou literárnou klasikou vďaka svojmu explózivnému obsahu a osobnému prínosu Diany, ktorá sa na jej tvorbe podieľala. Stala sa najpredávanejšou knihou na prvom mieste rebríčka bestsellerov deníka New York Times.</obsah>
+      <priemerne_hodnotenie>4.5</priemerne_hodnotenie>
+      <obrazok>../img/22.jpg</obrazok>
+    </book>
+    <book>
+      <id>23</id>
+      <nazov>Steve Jobs</nazov>
+      <autori>
+        <autor1>Walter Isaacson</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Životopisy</kategoria>
+      <isbn>9788081091940</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>562</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2011</rok_vydania>
+      <vydavatelstvo>Eastone Books</vydavatelstvo>
+      <predajna_cena>22.55</predajna_cena>
+      <nakupna_cena>9.65</nakupna_cena>
+      <marza>1.33678756476684</marza>
+      <zisk_kus>12.9</zisk_kus>
+      <obsah>Čitatelia slovenského prekladu autobiografie STEVE JOBS, publikovanej v rámci edície Business Class vydavateľstva Eastone Books, sa dozvedia pravdivý príbeh o ikone úspechu moderného technologického veku a jeho fenomenálnej spoločnosti Apple. Steve Jobs významne ovplyvnil vývoj počítačov pre osobné použitie, kreslených filmov, telefónov, hudby, tabletov a digitálnej tlače.
+
+
+
+      </obsah>
+      <priemerne_hodnotenie>4.6</priemerne_hodnotenie>
+      <obrazok>../img/23.jpg</obrazok>
+    </book>
+    <book>
+      <id>24</id>
+      <nazov>Šlabikár financií pre neziskovky</nazov>
+      <autori>
+        <autor1>Jaroslava Lukačovičová</autor1>
+        <autor2>Gabriela Zúbriková</autor2>
+      </autori>
+      <kategoria>Biznis a manažment</kategoria>
+      <isbn>9788097029135</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>137</pocet_stran>
+      <vazba>brožovaná väzba</vazba>
+      <rok_vydania>2022</rok_vydania>
+      <vydavatelstvo>Sauno</vydavatelstvo>
+      <predajna_cena>18.98</predajna_cena>
+      <nakupna_cena>8.78</nakupna_cena>
+      <marza>1.16173120728929</marza>
+      <zisk_kus>10.2</zisk_kus>
+      <obsah>Táto kniha, ktorú momentálne držíte v rukách, je vhodná pre každého, kto plánuje zriadiť neziskovú organizáciu a tiež pre tých, ktorí sa stretávajú s finančnými zdrojmi v rámci už existujúcich organizácií.</obsah>
+      <priemerne_hodnotenie>4.3</priemerne_hodnotenie>
+      <obrazok>../img/24.jpg</obrazok>
+    </book>
+    <book>
+      <id>25</id>
+      <nazov>Malý princ</nazov>
+      <autori>
+        <autor1>Antoine De Saint-Exupéry</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>klasika</kategoria>
+      <isbn>9788010034666</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>253</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2019</rok_vydania>
+      <vydavatelstvo>Mladé letá</vydavatelstvo>
+      <predajna_cena>14.95</predajna_cena>
+      <nakupna_cena>6.65</nakupna_cena>
+      <marza>1.24812030075188</marza>
+      <zisk_kus>8.3</zisk_kus>
+      <obsah>Knižka, ktorá nie je určená len pre deti, ale aj pre tých, ktorí chcú lepšie pochopiť detskú psychológiu, dosiahla obrovský úspech po celom svete a stala sa zlatým pokladom svetovej literatúry. Jej cennosť a krása nespočíva iba v peknej rozprávke, ale aj v myšlienkach, ktoré ako vzácne drahokamy formujú obraz ľudských vlastností...
+
+Autor Saint-Exupéry svoju knižku venoval najlepšiemu priateľovi s jasným detským pohľadom na svet, pretože každý dospelý bol kedysi dieťa. No iba málokto z nich si to uvedomuje.</obsah>
+      <priemerne_hodnotenie>4.8</priemerne_hodnotenie>
+      <obrazok>../img/25.jpg</obrazok>
+    </book>
+    <book>
+      <id>26</id>
+      <nazov>1984</nazov>
+      <autori>
+        <autor1>George Orwell</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>klasika</kategoria>
+      <isbn>9788055610832</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>253</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2013</rok_vydania>
+      <vydavatelstvo>Slovart</vydavatelstvo>
+      <predajna_cena>12.85</predajna_cena>
+      <nakupna_cena>8.89</nakupna_cena>
+      <marza>0.445444319460067</marza>
+      <zisk_kus>3.96</zisk_kus>
+      <obsah>Jedno z najvýznamnejších diel svetovej literatúry - román 1984 - sa dočkalo nového vydania. V sebe zahrnuje prvky vedeckej fantastiky a spoločensko-politického románu. Kniha súdi komunistickú diktatúru, ktorá v roku 1984 ovládla všetko, vrátane myslenia ľudí. Osudy jednotlivca, ktorý je čestný, citlivý a kritický voči systému (Winston Smith), sú popísané v tomto románe, za čo dostáva krutú odplatu.</obsah>
+      <priemerne_hodnotenie>4.7</priemerne_hodnotenie>
+      <obrazok>../img/26.jpg</obrazok>
+    </book>
+    <book>
+      <id>27</id>
+      <nazov>Mimo dobro a zlo</nazov>
+      <autori>
+        <autor1>Friedrich Nietzsche</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Filozofia</kategoria>
+      <isbn>9788072985852</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>223</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2021</rok_vydania>
+      <vydavatelstvo>OIKOYMENH</vydavatelstvo>
+      <predajna_cena>16.36</predajna_cena>
+      <nakupna_cena>8.89</nakupna_cena>
+      <marza>0.840269966254218</marza>
+      <zisk_kus>7.47</zisk_kus>
+      <obsah>Kniha Mimo dobro a zlo. Predohra k filosofii budoucnosti bola vydaná autorom v Lipsku v roku 1886 ako prvotlač nemeckého originálu. Nietzsche zbieral materiál k tejto knihe od začiatku 80. rokov, čerpajúc zo svojich poznámok, ktoré si zapisoval ešte pred vydanim Radostnej vedy (1882). Táto kniha tak bola vydaná krátko po publikácii Tak pravil Zarathustra (1883-1885). </obsah>
+      <priemerne_hodnotenie>4</priemerne_hodnotenie>
+      <obrazok>../img/27.jpg</obrazok>
+    </book>
+    <book>
+      <id>28</id>
+      <nazov>Co znamená myslet?</nazov>
+      <autori>
+        <autor1>Martin Heidegger</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Filozofia</kategoria>
+      <isbn>9788072984947</isbn>
+      <jazyk>cz</jazyk>
+      <pocet_stran>60</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2014</rok_vydania>
+      <vydavatelstvo>OIKOYMENH</vydavatelstvo>
+      <predajna_cena>14.38</predajna_cena>
+      <nakupna_cena>6.9</nakupna_cena>
+      <marza>1.08405797101449</marza>
+      <zisk_kus>7.48</zisk_kus>
+      <obsah>V prvej časti cyklu prednášok z rokov 1951/52 sa Heidegger detailne zaoberá tým, čo je moderná veda a aké je jej postavenie v rámci aristotelovskej charakteristiky človeka ako rozumnej bytosti. Zisťuje, že "veda nepremýšľa" a vysvetľuje, čo pre neho znamená "premýšľať". V tomto úsilí si berie pomocou Nietzscheho, aby sa vypočul s jeho myšlienkami o "nadčloveku" a "večnom návrate toho istého".</obsah>
+      <priemerne_hodnotenie>4.4</priemerne_hodnotenie>
+      <obrazok>../img/28.jpg</obrazok>
+    </book>
+    <book>
+      <id>29</id>
+      <nazov>Návod na prežitie pre muža</nazov>
+      <autori>
+        <autor1>Igor Bukovský</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>Odborné a náučné</kategoria>
+      <isbn>9788097023072</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>344</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2012</rok_vydania>
+      <vydavatelstvo>AKV - Ambulancia klinickej výživy</vydavatelstvo>
+      <predajna_cena>24.99</predajna_cena>
+      <nakupna_cena>14.98</nakupna_cena>
+      <marza>0.66822429906542</marza>
+      <zisk_kus>10.01</zisk_kus>
+      <obsah>Po úspešnom uvedení svojho knižného projektu „Návod na prežitie pre bejby – Hneď to bude, Anjelik“ (2011) sa Dr. Igor Bukovský pripravuje na nové vydanie svojho najznámejšieho bestselleru „Návod na prežitie pre muža“, ktoré bude obsahovať nové doplnky. Táto kniha, ktorá prvýkrát vyšla v roku 2006, sa na Slovensku predala až 45 tisíc kusov a pozitívne zmenila životy tisíckam mužov a ich rodín, ako aj ich okolia. Bukovský v nej ponúka návody a rady, ako prežiť v súčasnom svete ako muž, ktoré sú založené na jeho mnohoročnej skúsenosti ako lekára a terapeuta.</obsah>
+      <priemerne_hodnotenie>4.8</priemerne_hodnotenie>
+      <obrazok>../img/29.jpg</obrazok>
+    </book>
+    <book>
+      <id>30</id>
+      <nazov>Víkendové varenie</nazov>
+      <autori>
+        <autor1>Zdenka Horecká</autor1>
+        <autor2>Vladimír Horecký</autor2>
+      </autori>
+      <kategoria>Kuchárky</kategoria>
+      <isbn>9788081540660</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>192</pocet_stran>
+      <vazba>pevná väzba</vazba>
+      <rok_vydania>2014</rok_vydania>
+      <vydavatelstvo>Georg</vydavatelstvo>
+      <predajna_cena>11.5</predajna_cena>
+      <nakupna_cena>4.36</nakupna_cena>
+      <marza>1.63761467889908</marza>
+      <zisk_kus>7.14</zisk_kus>
+      <obsah>V tejto knihe sa nachádzajú overené recepty na rôzne pokrmy pripravované v kotlíku, na pánvi a na grile. Okrem toho sa v knihe nachádzajú aj recepty na marinády a omáčky k grilovaným jedlám, ako aj na prípravu rôznych šalátov. Veríme, že každý z vás si pri prezeraní knihy vyberie recepty, ktoré bude často a radi pripravovať.</obsah>
+      <priemerne_hodnotenie>3.9</priemerne_hodnotenie>
+      <obrazok>../img/30.jpg</obrazok>
+    </book>
+    <book>
+      <id>31</id>
+      <nazov>Daňový sprievodca</nazov>
+      <autori>
+        <autor1>Hospodárske noviny</autor1>
+        <autor2>5</autor2>
+      </autori>
+      <kategoria>ekonomika</kategoria>
+      <isbn>19515616151</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>234</pocet_stran>
+      <vazba>brožúrovaná</vazba>
+      <rok_vydania>2023</rok_vydania>
+      <vydavatelstvo>Tatran</vydavatelstvo>
+      <predajna_cena>11</predajna_cena>
+      <nakupna_cena>5</nakupna_cena>
+      <marza>0.5454545454545454545454545455</marza>
+      <zisk_kus>6</zisk_kus>
+      <obsah>DS obsah</obsah>
+      <priemerne_hodnotenie>5</priemerne_hodnotenie>
+      <obrazok>../img/31.jpg</obrazok>
+    </book>
+    <book>
+      <id>32</id>
+      <nazov>Sila zvyku</nazov>
+      <autori>
+        <autor1>Charles Duhigg</autor1>
+        <autor2>-</autor2>
+      </autori>
+      <kategoria>motivačné</kategoria>
+      <isbn>19515616151</isbn>
+      <jazyk>sk</jazyk>
+      <pocet_stran>272</pocet_stran>
+      <vazba>pevná</vazba>
+      <rok_vydania>2013</rok_vydania>
+      <vydavatelstvo>Tatran</vydavatelstvo>
+      <predajna_cena>13</predajna_cena>
+      <nakupna_cena>5.9</nakupna_cena>
+      <marza>0.5461538461538461538461538462</marza>
+      <zisk_kus>7.1</zisk_kus>
+      <obsah>sila zvyku obsah</obsah>
+      <priemerne_hodnotenie>5</priemerne_hodnotenie>
+      <obrazok>../img/32.jpg</obrazok>
+    </book>
+  </books>
+</Bookstore>

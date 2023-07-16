@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/navbar.css">
+</head>
+
+<body>
+    <nav>
+
+    </nav>
+    <nav class="navbar sticky-top navbar-expand-lg bg-dark">
+        <div class="container">
+
+            <a class="navbar-brand" href="index.html"><img id="logo"
+                    src="http://localhost:8050/img/imgbin_diwan-bookstore-logo-publishing-png.png" width="150"
+                    height="70" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto w-125 justify-content-end">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="singleBookSearcher.html">Nájdi knihu <span
+                                class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="booksCrud.html"> CRUD knihy</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="trasactionCrud.html">CRUD transakcie</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="amounts.html"> Sklad </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="sells.html">Predaje </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="costs.html">Náklady</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="financial_indicators.html">Hospodárske výsledky</a>
+                    </li>
+
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <body>
+        <script>
+            var appPort = window.location.port;
+
+            $(document).ready(function () {
+                $('#logo').attr('src', 'http://localhost:' + appPort + '/img/imgbin_diwan-bookstore-logo-publishing-png.png');
+            });
+        </script>
+    </body>
+
+</html>

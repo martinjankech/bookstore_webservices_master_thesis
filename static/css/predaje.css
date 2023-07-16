@@ -1,0 +1,52 @@
+
+.blue-card {
+ background-color: #e6f7ff;
+}
+
+.grey-card {
+ background-color: #f0f0f0;
+}
+.red-card {
+ background-color: lightpink
+}
+
+.card-text,
+.card-title {
+
+ font-family: Arial, sans-serif;
+ font-size: 0.8em;
+ font-weight: bold;
+ color: #333;
+
+
+}
+
+.card-text {
+ font-size: 1.4em;
+ text-align: center;
+ display: flex;
+ align-items: center;
+ 
+}
+.card-body {
+display: flex;
+ flex-direction: column;
+ align-items: center;
+
+}
+.card {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ height: 100%;
+}
+.fa-money-bill-wave,
+.fa-box {
+ font-size: 20px;
+}
+.card-body p{
+min-height: 15px;
+
+}
+
+
